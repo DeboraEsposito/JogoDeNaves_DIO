@@ -9,9 +9,13 @@
 <img align="center" height="30" width="40"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 </div>
 
-#### Instruções:
+### Instruções:
 
-##### Resgate
-Utilize a tecla W para movimentar o helicóptero para cima, a tecla S para movimentar o helicóptero para baixo e a tecla D para atirar.
+
+* Utilize a tecla W para movimentar o helicóptero para cima
+* A tecla S para movimentar o helicóptero para baixo
+* A tecla D para atirar.
+* Resgate o máximo de amigos que conseguir.
+* Atire nos inimigos antes que eles capturem seus amigos.
 
 
